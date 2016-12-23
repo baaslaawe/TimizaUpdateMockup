@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Timiza2</string>
+
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="English">English</string>
+    <string name="Swahili">Kiswahili</string>
+
+
+    <string name="LanguageSelect">
+        Please select the language you would like to proceed in.
+    </string>
+
+    <string name="MainMenuText">
+        \n1. Tuma Pesa "BURE"
+        \n2. Nunua muda wa maongezi na Vifurushi
+        \n3. Toa pesa
+        \n4. Timiza mikopo
+        \n5. Lipia bill
+        \n6. Akaunti yangu
+    </string>
+
+    <string name="TimizaLoginPIN">
+        Karibu mikopo ya Timiza. Ingiza PIN yako ya Airtel Money ili uweze kutumia huduma za mikopo.\n
+
+        \nIngiza PIN:
+    </string>
+
+    <string name="MainTimizaMenu">
+        Karibu mikopo wa Timiza kwa ushirikiano na Jumo.\n
+        \n1. Omba mkopo
+        \n2. Lipa mkopo
+        \n3. Taarifa kuhusu Timiza
+        \n4. Vigezo na masharti
+        \n5. Taarifa ya mikopo
+    </string>
+
+    <string name="AirtelMoneyLogin">
+        Kuingia yako Airtel Money PIN:
+    </string>
+
+    <string name="SignupTutorial_1">
+        Ili kuomba kutumia Timiza, lazima kukubaliana na kanuni na masharti yafuatayo. Lazima kuwa angalau umri wa miaka 18 na kuwa hai user ya Airtel Money.\n
+
+        \n1. Ifwatayo
+        \n*Rudi
+    </string>
+
+    <string name="SignupTutorial_2">
+        Mipaka mkopo kuanza katika 20,000 Tsh. Kama wewe kukopa na kulipa zaidi, kikomo yako itaongeza. Lazima kulipa mkopo wako kwa maslahi ndani ya siku 90. Ulipaji itakuwa moja kwa moja katwa kutoka katika akaunti yako Timiza. \n
+
+        \n1. Ifwatayo
+        \n*Rudi
+    </string>
+
+    <string name="SignupTutorial_3">
+        Kama wewe kulipa mkopo marehemu, kikomo mkopo wako yatapungua, lakini bado unaweza kukopa. Kama huna kulipa mkopo kwa wakati, ada ya adhabu itakuwa aliongeza kwa ulipaji yako. Kama huna kulipa mkopo wakati wote, tunaweza kufunga akaunti yako na kuchukua hatua za kisheria.\n
+
+        \n1. Ifwatayo
+        \n*Rudi
+    </string>
+
+    <string name="SignupTutorial_4">
+        Kuona sheria na masharti kamili, unaweza kuuliza wakala kwa ajili ya nakala, piga Wateja Care, au kwenda online kwa timiza.co.tz.\n
+
+	\n1. Ifwatayo
+        \n*Rudi
+    </string>
+    
+    <string name="AcceptTandC">
+        Je, wewe kukubali kanuni na masharti haya?\n
+
+	\n1. Mimi kukubali
+	\n2. Mimi si kukubali
+	\n*Rudi
+    </string>
+
+    <string name="TandCaccepted">
+        Asante sana. Ombi lako la akaunti Timiza imekuwa kuwasilishwa. Utapokea SMS kukujulisha kama ilikuwa ni kupitishwa. Kikao cha sasa mwisho.
+    </string>
+
+    <string name="TandCcanceled">
+        Akaunti si kufunguliwa. Kikao cha sasa mwisho.
+    </string>
+
+
+
+
+
+    <string name="MainMenuTextE">
+        Welcome to Timiza loan service, in partnership with Jumo.
+        \n1. Request a loan
+        \n2. Repay loan
+        \n3. About Timiza
+        \n4. Terms and Conditions
+        \n5. Loan Statement
+    </string>
+
+    <string name="AirtelMoneyLoginE">
+        Please enter your Airtel Money PIN:\n
+
+        \n*Back
+    </string>
+
+    <string name="SignupTutorial_1E">
+        In order to request using Timiza, you must agree to the following terms and conditions. You must be at least 18 years old and be an active user of Airtel Money.\n
+
+        \n1. Next
+        \n*Back
+    </string>
+
+    <string name="SignupTutorial_2E">
+        Loan limits begin at 20,000 Tsh. As you borrow and repay more, your limit will increase. You must repay your loan with interest within 30 days. Repayment will be automatically deducted from your Timiza account.\n
+
+        \n1. Next
+        \n*Back
+    </string>
+
+    <string name="SignupTutorial_3E">
+        If you repay a loan late, your loan limit will decrease. If you do not repay a loan in time, a penalty fee will be added. If you do not repay a loan at all, we may close your account and take legal action.\n
+
+        \n1. Next
+        \n*Back
+    </string>
+
+    <string name="SignupTutorial_4E">
+        To see the complete terms and conditions, you can ask a wakala for a copy, call Customer Care, or go online to timiza.co.tz.\n
+	\n1. Next
+        \n*Back
+    </string>
+
+    <string name="AcceptTandCE">
+        Do you accept these terms and conditions?\n
+
+	\n1. I agree
+	\n2. I do not agree
+	\n*Back
+    </string>
+
+    <string name="TandCacceptedE">
+        Thank you. Your request for a Timiza account has been submitted. You will receive an SMS notifying you if it was approved. Session will now end.
+    </string>
+
+    <string name="TandCcanceledE">
+        Account not opened. Session will now end.
+    </string>
+</resources>
