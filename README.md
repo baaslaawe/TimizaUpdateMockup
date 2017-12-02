@@ -4,7 +4,7 @@ An Android Studio application that mocks up what a potential Timiza update could
 
 Initial menu in English:
 
-![English menu] (/screenshots/Screenshot_2017-12-03-01-12-11.jpg?raw=true)
+![English menu] (https://raw.github.com/priyankacpathak/TimizaUpdateMockup/screenshots/Screenshot_2017-12-03-01-12-11.jpg?raw=true)
 
 Initial menu in Swahili:
 
